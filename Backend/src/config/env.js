@@ -1,4 +1,4 @@
-import dotenv from 'dotenv'
+import dotenv from 'dotenv/dist'
 
 dotenv.config({
     path : "./.env"
